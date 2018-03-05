@@ -21,6 +21,6 @@ T: Telnet
 U: Ulimit
 V: Vim
 W: Wget
-X: X11
+X: xargs
 Y: Yak
 Z: Zip
