@@ -1,14 +1,14 @@
 A: Ansible
 B: Bash
 C: Chef
-D: Devops
+D: Distributed
 E: Emacs
 F: FUBAR
 G: Gnu
 H: Htop
 I: Iterm
 J: Java
-K: K8s
+K: Kerberos
 L: Linux
 M: Make
 N: Nmap
@@ -19,7 +19,7 @@ R: RAID
 S: Systemd
 T: Telnet
 U: Ulimit
-V: Vim
+V: Vault
 W: Wget
 X: xargs
 Y: Yak
