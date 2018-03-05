@@ -1,0 +1,4 @@
+sudo: enabled
+language: ruby
+script:
+  - make test
